@@ -1,0 +1,548 @@
+<resources>
+    <string name="app_name">Sochi Tour Guide</string>
+    <string name="parks">Parks</string>
+    <string name="museums">Museums and Sights</string>
+    <string name="restaurants">Restaurants and Cafe</string>
+    <string name="nature">Nature attractions</string>
+    <string name="entertainments">Entertainments</string>
+
+    <!-- Strings for Parks -->
+
+    <string name="parks_riviera">Riviera Park of Culture and Leisure</string>
+    <string name="parks_riviera_description">
+        Play games and take part in amusement rides at Riviera Park of Culture and Leisure, one of the city\'s most popular parks.
+        This site combines a number of features for visitors, including art galleries, carnival rides, an old-fashioned Ferris wheel,
+        and an aquarium with a live dolphin show. The park is also home to Soviet structures and magnolia trees planted by Russian
+        astronauts and dedicated to peaceful space exploration.
+        Put Riviera Park of Culture and Leisure into our Sochi trip itinerary maker app to see other points of interest to visit
+        during your vacation in Sochi.
+    </string>
+
+    <string name="parks_southern_cultures">Southern Cultures Park</string>
+    <string name="parks_southern_cultures_description">
+        The park was planted in 1911, on the lands of General Daniil Drachevsky,
+        at his Sluchainoe estate, by the landscape architect Arnold Regel and gardner Roman Skrivanik.
+        Using 11 hectares of land, they had created the park-and-garden ensemble with a system of ponds.
+        Almost twenty years later, the park was given its contemporary name and greatly expanded.
+        Since then, it has changed a lot, adding new wooden sculptures and plants, and remaining a favourite attraction for the local
+        residents and resort visitors.\nSouthern Cultures Park captivates visitors with its combination of wide alleys,
+        intersected by numerous paths and roads that can alternatively take you to the thicket of coniferous trees,
+        or to some sweeping meadows, to exotic palmtrees and pampas grass, or eucalyptus groves.
+        In the park’s heartland lie the large ponds with islets and bridges.
+   </string>
+
+    <string name="parks_olimpiyskiy">Olimpic Park</string>
+    <string name="parks_olimpiyskiy_description">
+        Sochi Olympic Park is an Olympic Park that was constructed for the 2014 Winter Olympics and 2014 Winter Paralympics.
+        The Olympic Park houses the main Olympic Stadium used for the Games\' ceremonies, and the venues that were used for indoor sports
+        such as hockey, figure skating, curling, and speed skating.
+        It also houses training facilities, the Olympic Village, the international broadcasting centre, and other amenities.
+        The park was designed so that all of the venues would be accessible within walking distance of each other.
+        The venues are situated around a water basin containing a fountain known as "The Waters of the Olympic Park";
+        designed by California-based WET (which also designed the cauldron for the 2002 Winter Olympics in Salt Lake City),
+        the fountain measures 5.3 meters in diameter with a capacity of about 700,000 gallons of water, featuring more than 250 nozzles
+        and jet systems that can create fog and choreographed water displays set to music.
+    </string>
+
+    <string name="parks_dendrariy">Arboretum Botanical Garden Dendrariy</string>
+    <string name="parks_dendrariy_description">
+        Dendrarium or Arboretum is a beautiful park with a large collection of over 1800 species of tropical plants, trees and shrubs.
+        An extensive botanical collection of Sochi Arboretum includes species from 106 families, 310 genera of plants.
+        Among most noticeable are giant eucalyptus trees, palm trees, Japanese cherry tree, yuccas, giant agave and many others.
+        Mild Mediterranean climate of Sochi allowed exotic plats to flourish in the park and around the city.
+        Most of these plants were brought to Sochi by famous Russian scientists Sergey Nikolayevich Khudyakov.
+        Many plants were planted along Sochi streets. You can take a cable car to the top of the mountain and walk down the stairs.
+        Beautiful Sochi park is dispersed by beautiful architectural buildings, terraces, stairs, fountains and others.
+        The territory of the park is divided into two parts, the Upper Park and Lower Park dissected by Kurortny Avenue.
+    </string>
+
+    <string name="parks_potseluyevsky">Potseluyevsky Park</string>
+    <string name="parks_potseluyevsky_description">
+        Potseluevsky Square is a pleasant place for a quiet rest in the center of Sochi near the central registry office.
+        No entertainment in this park you will not find, but there are many places for kisses:
+        on the shady green alleys there are comfortable benches on which you can rest and wait for the day\'s heat.
+        \nThis small square was laid in 1988 to the 150th anniversary of the founding of the city,
+        in honor of the historical date in the park, the monument "Stone Anchor" was erected.
+    </string>
+
+    <string name="parks_ornithological">Ornithological Park</string>
+    <string name="parks_ornithological_description">
+        The natural ornithological park in the Imereti Valley was established after completion of large-scale Olympic construction
+        in place of the bogs and lakes, used by migrating birds for a stopover. Today, the almost 300-hectare park is divided
+        into 14 clusters, and is known for both its nature conservation and educational efforts.
+        The park is unique as it’s the only place in Russia with preserved Colchian-type swamps inhabited by many rare plants and animals.
+        Despite its residential surroundings, the birds have all the comforts here. The promenades are set up far from the bird rest spots,
+        and some of the especially important ponds are fenced off, so that the visitors don’t disturb the park’s residents.
+        This helps to preserve the migrating birds’ habitual stops and to increase their population, as the scientists regularly note appearance of progeny.
+        At the park, you can see swans and geese, herons and diving ducks, peregrin falcons and kestrels, along with many others.
+        The lakes are inhibited by turtles and snakes.
+    </string>
+
+    <string name="parks_komsomolskiy">Komsomolskiy Park</string>
+    <string name="parks_komsomolskiy_description">
+        This small, cosy park was planted on the left bank of the River Sochi in 1970 by a group of youth activists,
+        led by young architect Valentin Kirichenko. Hence its name: Komsomolsky.
+        \nThe fountain remained the park’s centrepiece for years, but more landmarks have since been added,
+        including the memorial for Sochi-born soldiers who fought in the Great Patriotic War,
+        and the monuments commemorating Afghan War veterans and Chernobyl Nuclear Power Plant emergency rescue workers.
+        \nThis park with its green glades in the shade of the evergreen trees, its shrubberies in bloom and neat benches is one of the
+        favourite recreation grounds for locals and visitors alike.
+    </string>
+
+    <string name="parks_russia_japan">Russia-Japan Friendship Garden</string>
+    <string name="parks_russia_japan_description">
+        Across the street from Arts Square there is a small exotic garden with a bronze dragon guarding the entrance.
+        \nThis green oasis in the resort heart of Sochi was crated thirty years ago by the famous landscape architect, Sergey Venchagov.
+        He planted this veritable oriental garden with glades and narrow paved paths on a tiny piece of land,
+        squeezed in between Kurortny Prospekt and private homesteads. It is home to coniferous and deciduous trees,
+        which are common to Japan and Russia. A weeping willow broods over a pond in the middle of the garden,
+        surrounded by Korean silver firs, Japanese larches, cedars and several kinds of pine. There are no benches in this garden.
+        It is customary to just walk quietly here, following the paths, contemplating the beauty.
+    </string>
+
+    <string name="parks_sochi_park">Sochi Park </string>
+    <string name="parks_sochi_park_description">
+        The first theme park in Russia – Sochi Park or the Russian Disneyland was open in a picturesque Imeretinskaya Lowland,
+        close to the Olympic Park in the summer of 2014. The Park enjoys excellent transport accessibility.
+        It\'s a very special place where little ones can meet their favorite characters from Russian folklore and
+        Alexander Pushkin\'s tales and parents and grandparents can take part in many attractions specially built for Sochi Park.
+        \nThere are roller coasters, thrill rides for the daring family members, kiddie rides for the children and family rides
+        for everyone in the family to enjoy. Along with all of the fun rides are shows, parades, and games. And when your start to get hungry,
+        you can take advantage of numerous food locations throughout the Park which includes cafes and restaurants, fun foods and meals for kids.
+    </string>
+
+
+    <!-- Strings for Museums and Sightseeings-->
+
+    <string name="museums_tea_plantation">Tea Houses</string>
+    <string name="museums_tea_plantation_description">
+        Tea Houses is a sprawling excursion site, devoted to Sochi’s tea-growing industry,
+        consisting of several log-houses and a tea plantation on a hillside.
+        In the 1970s, this was the tea industry “showcase” designed to impress visiting foreign dignitaries.
+        \nThe main log-house of the complex, built by Huzul craftsmen, is decorated with carved ornaments and folk artefacts,
+        created by eminent Russian craftsmen. When you have learned about the history of what is probably the world’s northernmost tea,
+        you can take a stroll amid the tea plantations and harvest some tealeaves to take home.
+        \nAt the end of the excursion everyone sits down around a samovar to have some tea, fresh-baked pies, jam made from local fruits,
+        and locally harvested honey and hazelnuts. The best time to visit is between May and October, when tea is harvested.
+        The plantation offers a breathtaking view of the Caucasus Mountains.
+    </string>
+
+    <string name="museums_akhun_tower">The Observation Tower on Akhun Mountain</string>
+    <string name="museums_akhun_tower_description">
+        On the way to Matsesta, there is a viewing platform offering an astonishing panoramic view of Greater Sochi.
+        In clear weather, even the Turkish coast is visible from here.
+        The platform is located on the tower constructed at the peak of Akhun Mountain, which rises 663 metres above sea level.
+    </string>
+
+    <string name="museums_singing_fontains">The Singing Fontains</string>
+    <string name="museums_singing_fontains_description">
+        In the center of the Olympic Park is the Medals Plaza. Its main attractions are the singing fountain and the Olympic torch pylon.
+        During 2014 Winter Games, thousands of fans gathered here to honour the winners, and there were musical performances every night.
+        The plaza is round like a medal, with a triangular pattern of lawns around the perimeter. To this day,
+        it remains a magnet for thousands of tourists.
+        The plaza offers a great view of all the Olympic arenas and Fisht Stadium that will host 2018 FIFA World Cup.
+        It is still used for concerts and performances, and a special stage is erected on such nights.
+        \nIn the evenings, the amazing Olympic Fire Chalice singing fountain performs hour-long light-and-music shows to the accompaniment
+        of classical music and contemporary hits. Every night, hundreds of visitors come to watch the show.
+    </string>
+
+    <string name="museums_svyato_troitsky_temple">Svyato-Troitsky Church</string>
+    <string name="museums_svyato_troitsky_temple_description">
+        The Svyato-Troitsky Church was built and consecrated on May 31, 1998 in the territory where
+        the Temple of the Descent of the Holy Spirit was earlier from 1898 to 1947. This territory is a historically memorable place
+        for the laying of Fort Adler (1837) and a protected historical and landscape area where the settlement of Adler was founded.
+    </string>
+
+    <string name="museums_auto_sport_museum">Sochi Auto Sport Museum</string>
+    <string name="museums_auto_sport_museum_description">
+        The museum features around 50 racing and sports cars, including a genuine Jaguar R5B Formula 1 car,
+        a 1,500-horsepower Dodge Viper for drag racing, a Jaguar XJ220, which held the speed record in the 1990s, a legendary Ferrari F40,
+        the race car for public roads, a Formula RUS racing car, and a Soviet Pobeda Sport car from way back in the 1950s.
+        The museum has several thousand exhibits, including model cars, a collection of caps and watches, driver and mechanic outfits,
+        a Formula 1 photo gallery, books, photographs, magazines, a unique display of all Pirelli calendars from 1964 to 2018, and a
+        fantastic gallery of paintings by Russian, Ukrainian, and Kazakh artists. There is a souvenir shop in the museum.
+    </string>
+
+    <string name="museums_stalin_residence">Stalin\'s Summer Residence</string>
+    <string name="museums_stalin_residence_description">
+        At Stalin\'s Summer Residence (Museum Of USSR History), sit on the dictator\'s couch, and touch his leather jacket
+        and other personal belongings. Painted green for camouflage, the house on top of the ridge is surrounded by palms and cedars.
+        Inside the dark interior, you\'ll see heavy curtains, redwood furniture, a pool 1.52 m (5 ft) deep, and a small army cot.
+        A wax figure of Stalin sits in his study. According to rumor, Stalin haunts the house.
+        The complex features a hotel and a restaurant where you can sample homemade eastern dishes.
+    </string>
+
+    <string name="museums_art_museum">Sochi Art Museum</string>
+    <string name="museums_art_museum_description">
+        On display at Sochi’s Art Museum is a collection of 19th- and 20th-century Russian paintings and graphic art:
+        landscapes and seascapes by Ivan Shishkin and Ivan Aivazovsky, still-lifes by Pyotr Konchalovsky and Ilya Mashkov,
+        drawings by Valentin Serov, Boris Kustodiev and Aleksander Deineka. But the pride of place at the museum belongs
+        to the Mzymta Treasure – a large cache of iron, bronze, silver and gold artefacts of Sarmat and ancient Greek origin,
+        unearthed by the River Mzymta in 1997.
+    </string>
+
+    <string name="museums_marine_station">Marine Station</string>
+    <string name="museums_marine_station_description">
+        Sochi’s sea-gate is 1.5 kilometres away from the railway station. The sea terminal, which is on the official architectural landmarks list,
+        looks like a real palace. The former Marina, now a shopping and amusement centre,
+        was built in the mid-20th century to the design of Karo Alabian and Leonid Karlik. With its majestic colonnade, open terraces,
+        broad stairways and arches, and its 70-metre tower with a steeple, it is quite reminiscent of St. Petersburg’s Admiralty.
+        The central tower is adorned with a sculptural composition: the female statues represent seasons of the year,
+        the male statues stand for the cardinal points, and the dolphins symbolize the opulence of the Black Sea coast.
+        Following a massive rebuilding and the addition of some new buildings on the northern pier, Sochi’s passenger port is now the largest
+        in the Black Sea region. It remains open for supersize ships all year round. Global cruise expos and regattas take place here on a regular basis.
+        \nThere are two noteworthy monuments next to the port. The one in the park across from the rotunda commemorates Peter I,
+        the emperor who expanded Russia so that it gained access to the three seas: Baltic, Azov and Black. He did not, however,
+        build any navy on the Black Sea, like he did on the Baltic Sea. The second monument,
+        standing in the shade of some sycamores by the southern pier, depicts the seeing-off of the main characters of Soviet cult
+        comedy Diamond Arm on their overseas cruise. That scene was actually filmed at the Sochi port.
+    </string>
+
+    <string name="museums_train_station">Train Station Sochi</string>
+    <string name="museums_train_station_description">
+        The building of the railway station was designed by Alexey Dushkin. Its construction was started on 13 September 1950
+        and completed on 10 September 1952, and the luggage section was added in 1956.
+        In the 1950s Sochi played an important role in the Soviet Unions, being a major transit point from Russia to Georgia
+        and the most popular health resort for a large number of ordinary citizens and Communist Party leaders, including Joseph Stalin.
+        Consequently, the station construction was curated by an unusually large number of ministries, and by Stalin himself.
+        While Dushkin's design was considered elegant by many curators, including Stalin, it was criticised by others for excessive costs.
+        Dushkin built a twin version of the Sochi station in Simferopol in 1951. In 1975, the Sochi station was included to the Russian
+        list of architectural monuments of federal importance.
+    </string>
+
+    <string name="museums_matsesta">Matsesta Kurort</string>
+    <string name="museums_matsesta_description">
+        Matsesta, meaning \'fire water\', has harnessed the powers of the hot sulphur springs that have become synonymous
+        with Sochi and become the city\'s most renowned health spa. The water contains over 27 types of minerals and is used
+        to treat people with respiratory and cardiac problems. Featuring a number of bathing rooms, massage tables and inhalation cubicles,
+        Matsesta Spa is a major tourist attraction.
+    </string>
+
+    <string name="museums_of_sochi">Museum of the Resort Town of Sochi</string>
+    <string name="museums_of_sochi_description">
+        The Museum of History of the Resort City of Sochi houses the main treasures of this area.
+        It was founded with a collection established at the beginning of the twentieth century by the Caucasus Mountain Club:
+        minerals found in the mountains, herbariums of local plants, artefacts from the homes of the native coastal peoples.
+        The collection has expanded and now provides an idea of the entire history of the Russian South.
+        \nIn the museum’s courtyard is an historical dolmen tomb from Lazarevskoye Village.
+        As you move through the halls, the pages of Sochi’s history unfold one by one. One hall features Bronze Age tools,
+        arrows and clay bowls. Another contains a ship filled with Turkish yatagan knives and Cossack sabres.
+        Elsewhere, the museum includes a diorama featuring bears, mountain goats and black cockerels;
+        miniature replicas of ancient summer houses; a collection of weaponry used by the soldiers of the White Guards and the Red Army;
+        and phonographs and tableware from the first Soviet resorts. The Soyuz-9 space module,
+        in which Andriyan Nikolayev and Vitaly Sevastyanov returned from space and underwent rehabilitation in Sochi in 1970, is also here.
+        Their 17-day journey was the longest space trip ever made at that time.
+    </string>
+
+    <!--Strings for Restaurants and Cafe -->
+
+    <string name="cafe_delmar">DelMar</string>
+    <string name="cafe_delmar_description">
+        Del Mar is a café on the waterfront with lots of fish and seafood on the menu: soup DelMar di mare, tuna tartar,
+        cream stewed mussels, shrimp tempura, Genoa salad. The seafood offering fits in well with Italian food: delicious thin-crust pizza,
+        Parma ham pasta… Even Japanese selections are served with Italian flair at Del Mar: the sushi rolls have names like Liguria
+        or Calabria. Wash it all down with any of the numerous French, Argentinean and Chilean wines on offer.
+        \nWhen it’s warm out, most people sit out on the porch or at the tables down by the water’s edge.
+        A visit to Del Mar in the morning is a special kind of pleasure. That’s when they serve Italian omelette,
+        syrniki  and house breakfast. The kids get their own menu with titles like ABC chicken soup,
+        mini burger and franks with mashed potatoes.
+    </string>
+
+    <string name="cafe_chaika">Chaika</string>
+    <string name="cafe_chaika_description">
+        Located in the historic Sochi Seaport terminal building, this upscale eatery serves European and Russian dishes.
+        Specialties include a variety of grilled local fish, risottos, and pastas, plus candy and ice-cream made on the premises.
+        Take in the seaport views on the outdoor veranda during warmer months and watch boats arrive and depart.
+    </string>
+
+    <string name="cafe_brigantina">Brigantina</string>
+    <string name="cafe_brigantina_description">
+        Brigantina is a French restaurant in Sochi’s old port neighbourhood.
+        This is where people come for fresh fish and seafood, both local and imported: oysters, snails, mussels, crab, scallops, clams,
+        shrimp, and many kinds of Black Sea fishes: mackerel, surmullet, and all the rest of the local catch. They also make pizza here,
+        which is available for takeout. The prices are not exactly low: a pot of mussels will set you back 950 rubles.
+        But the view of the sea and the port is fabulous. Sit out on the porch, sipping French or Italian wine, watching the sunset,
+        the sailboats and the big ships at anchorage off in the distance.
+    </string>
+
+    <string name="cafe_cho_kharcho">Che? Kharcho!</string>
+    <string name="cafe_cho_kharcho_description">
+        Che? Kharcho! is a café launched by the Moscow restaurant group White Rabbit Family,
+        whose restaurant White Rabbit is ranked 18 on The World’s 50 Best Restaurants 2016.
+        \nIn two cafes Che? Kharcho! offers Black Sea food in the broadest possible sense, with an emphasis on grilled selections.
+        Their concept of “Black Sea food” evidently includes everything we’ve been accustomed, since childhood,
+        to eating when on seaside holiday in the South: khinkali, shish kebab, satsivi, chicken rissoles, kharcho, lulah kebab and local fish,
+        both freshwater and saltwater. The owners of Che? Kharcho! claim and continually reiterate that all their food is prepared
+        from local produce. The menu lists some complicated lemonades, berry drinks and compotes. The bar menu is not so diverse,
+        but Georgian and Crimean wines are on.
+    </string>
+
+    <string name="cafe_khmeli_suneli">Khmeli and Suneli</string>
+    <string name="cafe_khmeli_suneli_description">
+        Although this Georgian restaurant also has Italian specialties and things like borsch, Caesar salad and the Russian classic –
+        Olivier salad on the menu, most patrons come to Khmeli and Suneli for its Georgian food. This restaurant is hard to miss.
+        It’s right in the centre of Sochi, it has a large, comfortable porch, and the enticing smells of char-broiled meat emanating
+        from it will guide you right to it. Their scrumptious veal shawarma is legendary. Very few restaurants get Tarkhun tarragon
+        lemonade right, as in ‘not too sticky-sweet’. Khmeli and Suneli pulls it off: their Tarkhun has a fresh and subtle taste.
+        \nThe restaurant runs a deli outlet: you can take your favourite food home with you. They serve breakfast in the morning,
+        which is worth getting up early for. Make sure you order the Adzharian khachapuri scaled down to toy size for your child.
+        After dinner, you can send your kid off to cooking master-class, which the restaurant offers on a regular basis.
+    </string>
+
+    <string name="cafe_lighthouse">LightHouse</string>
+    <string name="cafe_lighthouse_description">
+        Restaurant Lighthouse is the best panoramic place in Sochi. It is located on the 7th and 8th floor near the residential complex
+        Lighthouse of Alexandria. Included in the top 10 best panoramic restaurants in the south of Russia.
+        The restaurant is in 2-minute walk from the pebble beach of the Black Sea and 5 minutes from the Festival concert hall.
+        Enjoy the meal, try the delicious dishes that are cooked with love. Decent service, stable quality.
+        A large selection of fine wines. The music in Lounge style, and not only that… Free parking for our dear guests.
+    </string>
+
+    <string name="cafe_vostochnyy_kvartal">Vostochnyy Kvartal</string>
+    <string name="cafe_vostochnyy_kvartal_description">
+        Vostochnyy Kvartal is a real oasis of eastern culture on the Black Sea coast.
+        It is built and painted in the best traditions of national architecture by masters and artists from Uzbekistan.
+        \nGuests will be able to appreciate Uzbek cuisine: real Chaikhan pilaf, samsa and tortillas from tandyr, lagman and santa,
+        sazan-kabob and shish kebabs. The Vostochnyy Kvartal is located near the sea, and the windows offer a wonderful view of the sea.
+    </string>
+
+    <string name="cafe_baran_rapan">Baran-Rapan</string>
+    <string name="cafe_baran_rapan_description">
+        The size of this huge two-storey restaurant is matched by the size of its bulging menu, prevalently Georgian and Mediterranean
+        with lots of fish and seafood. They have everything a seaside holiday-maker can dream of. The interior design of Baran-Rapan
+        is elaborate, thought-through down to the tiniest detail.
+        \nMost patrons come to Baran-Rapan for its extensive seafood selection which is, indeed, impressive.
+        But this restaurant is also notable for its elegant service, which often turns a regular dinner into a festive experience.
+    </string>
+
+    <string name="cafe_fettuchchine">Fettuchchine</string>
+    <string name="cafe_fettuchchine_description">
+        Trattoria Fettuccine – is an Italian restaurant for the whole family, where we honor traditions,
+        whether it be recipes of grandmother or creative cuisine by Chef Daniele Benedetti of Italy!
+        \nThe trattoria reign authentic Italian food products: pasta of Italian fresco meal \"semola\", entirely handmade,
+        pizza on a thin flat shortcake from the authentic Italian wood-burning oven and homemade limoncello.
+        \nIn addition to the simple and clear, but the delicious taste of Italian dishes in a trattoria can find a souvenir shop and
+        Italian products. Democratic approach does not leave anyone indifferent, because the combination of high-quality service,
+        authentic Italian cuisine and affordable prices – a truly rare.
+    </string>
+
+    <string name="cafe_corks_wine">CORKs Wine Bar and Kitchen</string>
+    <string name="cafe_corks_wine_description">
+        The atmospheric loft-style interior with rarity brickwork, a cozy terrace that works even in winter, an unusual wine list and
+        a very modern cuisine are all CORKs. Restaurant\'s menu is designed so that each dish reveals the taste of wine.
+        And the main thing to try here is something from section \"Fingerfood\" - light snacks like pate, tartar or bruschetta.
+        For those who prefers more serious meals we recommend home burrata, tomato soup with cod and steaks. All with wine, for sure.
+    </string>
+
+    <!-- Strings for Nature Attractions -->
+
+    <string name="nature_agura_waterfalls">Agura Waterfalls </string>
+    <string name="nature_agura_waterfalls_description">
+        Agura Waterfallls is one of the innumerable waterfalls in Sochi. One of the famous tourist attractions in Sochi,
+        the picturesque location of Agura Waterfalls draws a lot of travelers from all across the world.
+        Also known as Agursky, this waterfalls is one of the most frequented places of sightseeing in Sochi.
+        The locale of Agura Waterfalls, Sochi is a popular hiking trail in the area.
+        \nCascading from a height of 30 meters, the Agura Waterfalls in Sochi meanders through the ledges, dividing into separate rivulets.
+    </string>
+
+    <string name="nature_33_waterfalls">33 Waterfalls </string>
+    <string name="nature_33_waterfalls_description">
+        The grand cascade of 33 falls is located on the River Shakhe in the Lazarevsky District.
+        It’s easier to get here with a tour group or an offroading party. The road traverses a mountain village and follows a riverbed.
+        This well-known cascade of relatively small falls, slides and rapids – the tallest one is about 7 metres – is on the right-hand
+        tributary of the Shakhe, the Jegosh, which is less than two kilometres long, including the non-perennial section of its riverbed.
+        There are some cafés and gift outlets at the beginning of the route. The wooden bridges and stairs on both banks of the river
+        take you to 17 out of 33 falls. Those wishing to see more will have to make their own way through the forest and along
+        the rocky banks. The whole route runs through shady woodland. Part of the appeal of these waterfalls are the lakes they form,
+        in which people are wont to swim.
+    </string>
+
+    <string name="nature_mamedovo_canyon">Mamedovo Gorge</string>
+    <string name="nature_mamedovo_canyon_description">
+        This part of the Sochi National Park in the valley of the River Kuapse, squeezed, as it were, between two mountain ranges –
+        Asheisky and Bezymyanny – is overgrown with oaks, chestnuts, beeches and ferns.
+        \nThe gorge is named after Old Man Mahmed, the hero of local lore. Like Ivan Susanin of Russia, Mahmed,
+        hired as a local guide by enemy soldiers, led them into the neck of woods where they died, and thus saved his village.
+        \nThe entrance to the gorge is impeded by a heap of rocks from a rock-fall, beyond which the prepared trail begins.
+        If you follow it, you will pass a little grotto and enter a narrow rocky corridor. The river, which toiled to carve itself a
+        passage to the sea, built a veritable arch here. Three metres up, the walls of the gorge converge. Beyond the tunnel the gorge
+        expands abruptly. This is what the locals call the White Hall, due to all the chalk-stone washed up on the bank at the river-bend.
+        The water falling down one of the walls of the \"Hall\" from a height of more than 10 metres is called Mahmed\’s Beard.
+        Another waterfall nearby has formed a semblance of a basin, which they call Mahmed’s Bathtub. Still farther down the gorge
+        you will discover a cascade of three bathing bowls, which the locals call the bowls of health, beauty and love.
+        At this point the trail climbs up, bringing the traveller back to the walnut glade.
+    </string>
+
+    <string name="nature_yew_and_boxtree">Yew and boxtree wood</string>
+    <string name="nature_yew_and_boxtree_description">
+        The yew and box-tree grove is a unique old-growth forest in the Khosta District of Sochi, which has existed since before Ice Age,
+        miraculously surviving both major construction projects and great natural calamities.
+        Even though it has seen some major damage from the boxwood fungus in the past two years, the grove is still spell-bindingly beautiful.
+        \nSpecially appointed pathways lead the tourists through the thickets, precipitous rocks and stone labyrinths past the ruins
+        of an 11th/12th-century fortress and some caves, dead-ending at a turbulent mountain stream. The sprawling tops of the mighty,
+        ages-old yews keep most of the grove in the cool shade even on a scorching summer day.
+        \nThere are two excursion routes one can follow, two and five kilometres long. On the way,
+        you can rest in the secluded arbours or on benches. The sign-posts will inform you of the local florae and faunae,
+        as well as the directions.
+    </string>
+
+    <string name="nature_krasnaya_polyana">Krasnaya Polyana Mountain Cluster</string>
+    <string name="nature_krasnaya_polyana_description">
+        Krasnaya Polyana features mountains, waterfalls, ancient dolmen tombs, ravines and mineral water sources.
+        It also has three mountain ski resorts: Roza Khutor, Laura and Gornaya Karusel, which are the best of their kind in Europe today.
+        Chalets, restaurants, shops, clubs and children’s playgrounds are connected by paths and rope ways. In the summer,
+        when there is no snow, the cycling season opens in the resorts.
+    </string>
+
+    <string name="nature_eagle_rock">Orlinye Skaly</string>
+    <string name="nature_eagle_rock_description">
+        From the Agura River, a trail leads to the other local landmark, Orlinye Skaly, overhanging the gorge.
+        The view that opens up on the mountains, the sea, the dark woods and the river from the top of Orlinye Skaly takes your breath away.
+        The elation is further enhanced by the statue of Prometheus erected on the rocks. Legend has it that the rock to which the
+        Olympian Gods chained Prometheus in punishment for stealing fire from the Gods and giving it to humans, was right here.
+    </string>
+
+    <string name="nature_devils_gate_canyon">Chertovy Vorota Canyon</string>
+    <string name="nature_devils_gate_canyon_description">
+        This natural treasure, protected by the state, is located in the valley of the River Khosta. C
+        hertovy Vorota, or \"Devil\’s Gate\", is a small canyon of amazing beauty close to the confluence of the West and East Khosta.
+        Water had to work for thousands upon thousands of years to carve it in the rocks, so that today we stand spell-bound
+        by the smooth undulations of the 50-metre rock faces, and the sandbars and smooth bottom of the canyon,
+        which is only five metres across at the widest. The curves are what gave this canyon its name.
+        Chertovy Vorota is surrounded by primal forest, where plants from before the Ice Age occur. This nature sanctuary is of two parts:
+        one is open to the public, the other is restricted. You can walk through the yew and box-tree grove to reach Chertovy Vorota,
+        or you can drive and park by the picnic ground with tables and fire pits. There is also a small beach on the bank of the mountain
+        river nearby.
+    </string>
+
+    <string name="nature_vorontsovska_caves">Vorontsovka Caves</string>
+    <string name="nature_vorontsovska_caves_description">
+        One of the longest surrender buildings anyplace in Russia, the Vorontsovka Caves contain confirmation of human home going back
+        a mind boggling 20,000 years. It is this reality, alongside the holes\' striking visual appearance,
+        that draws guests here from great distances abroad. Situated in the Khosta and Adler regions of Sochi,
+        the holes can be explored by foot through a progression of doorways spotting the inclines of the Kudepsta River Valley at statures
+        of up to 720 meters above ocean level. There's photograph openings wherever you look, so make certain to bring your camera,
+        and durable footwear is additionally unequivocally prescribed.
+    </string>
+
+    <string name="nature_akhtyrshskaya_cave">Akhtyrshskaya Cave</string>
+    <string name="nature_akhtyrshskaya_cave_description">
+        Famous for its picturesque views and underground lakes, Akhtyrshskaya Cave encapsulates within itself primeval remains
+        and petroglyphic drawings. On your visit, you’ll observe ruins of the former watchtower accompanied with some wonderful waterfalls.
+        It’s interesting to learn that the southern exit if the cave is located approximately 100m above the river.
+        Those of you who are interested in photography can test their skills by capturing some real nice panoramic views and beautiful
+        sceneries surrounding the cave.
+    </string>
+
+    <!-- Strings for Entertainments -->
+
+    <string name="entertainments_yacht_club">Yacht club Sochi</string>
+    <string name="entertainments_yacht_club_description">
+        Yacht club \"Sochi\" is located in the center of the resort city, on the left bank of the river Bzugu.
+        \nThe complex of buildings and structures was commissioned on the eve of the Moscow Olympics in 1980,
+        as a base for the preparation of the Russian national sailing team.\nThe capacity of the water area of ​​the yacht port
+        is up to 60 boats and yachts of various classes. Depths in the harbor - from 2 to 3 metres;
+        the width of the entrance channel is 30 metres, the depth is 2.8 metres. Marina is protected by hydraulic structures -
+        concrete South and North mole. The length of berthing facilities is 330 m. There is a bunkering station;
+        repair shops for boats, slipways.
+    </string>
+
+    <string name="entertainments_malibu_club">Malibu Night Club</string>
+    <string name="entertainments_malibu_club_description">
+        This is the largest and most popular night resort of the Black Sea coast.\nThe area of Malibu is about 1500 square meters,
+        which makes it possible to comfortably accommodate about 1000 guests. The club is a two-level open area,
+        where there are 4 cocktail bars, a soft zone, a Japanese zone, a VIP-box and full parking. The tropical design of the building
+        is successfully combined with the beauty of the sea coast, the noise of the surf and the unique aroma of unique plants
+        in the park zone.\nThe club offers a variety of concert programs, shows, themed parties, performances of famous
+        DJs and corporate events. Here is the annual tango forum, in which world stars take part.
+        \nA distinctive feature of Malibu is the constant change of design.
+    </string>
+
+    <string name="entertainments_winter_theater">The Winter Theatre</string>
+    <string name="entertainments_winter_theater_description">
+        The Winter Theatre (Zimny Teatr) was built in 1937, and quickly became one of its key landmarks.
+        The building itself is a sight to behold. It has become one of Russia\'s architectural monuments.
+        Designed by Konstantin Chernopyatov, the icredibly \'light\' structure rests upon 88 columns, running around the building\'s
+        perimeter. The front of the theatre is adorned with three goddesses, as if they have graced it personally by descending to
+        the mortal realm from Olympus: Melpomene, Terpsichore and Talia. Famous Russian sculptor Vera Mukhina authored these statues.
+    </string>
+
+    <string name="entertainments_organ_hall">Organ and Chamber Music Hall</string>
+    <string name="entertainments_organ_hall_description">
+        Hall of Organ and Chamber Music named after Alice Debolskaya was erected in mid 1960s. Designed by Evgeniy Serdyukov,
+        the building barely changed its exterior throughout half a century. It still has the original mosaic on its front,
+        as well as the garden with exotic plants. The Organ was provided by the Rieger-Kloss company in 1986. It\'s quite impressive
+        with 2,500 pipes. The first concert here was played by the famous Garry Grodberg.
+        \nThe unique acoustics of the hall, suited for just 340 visitors, allow a wide variety of concerts,
+        from organ to choir and symphonic. It\'s considered to be the main academic music venue in Sochi.
+    </string>
+
+    <string name="entertainments_festivalniy">Festival Concert Hall</string>
+    <string name="entertainments_festivalniy_description">
+        One of the largest concert venues in Russia and the most famous concert hall in Sochi. The schedule of the Concert Hall
+        has been always very tight and many popular stars come here several times during the summer season.
+        Most performers are Russian pop singers. This is also a venue for various festivals and competitions.
+        The hall capacity is 2500 people. Not all the seats allow good view, so it is better to get a place far from the stage
+        but in the middle. Tickets cost 1000-5000 rubles depending on the concert. A small drawback: as the hall is open you can hear
+        sounds from the street.
+    </string>
+
+    <string name="entertainments_treugolnik">Treugolnik Rock-Bar</string>
+    <string name="entertainments_treugolnik_description">
+        A legendary place that has recently celebrated its 20-year anniversary. It often hosts popular rock-groups
+        (the ticket price is 1000-1500 roubles) and almost every evening there are performances of young teams
+        (entrance is free or up to 300 roubles). Here you will see a lot of somewhat gloomy regular customers dressed in leather
+        and jeans clothes, and brick walls and dark wood add Brutalism to the interior. The prices for beer and snacks are a bit
+        overestimated, but the atmosphere is great. The place is located away from the center – in the Adler district of Sochi.
+    </string>
+
+    <string name="entertainments_horses">Horse riding</string>
+    <string name="entertainments_horses_description">
+        One of the most favourite amusement for tourists in the Greater Sochi. As a rule, the rides start from remote districts
+        of the city agglomeration – Dagomys, Akhun or Hosta but sometimes you can find rides from Adler too.
+        They last from one or two hours (500-1200 roubles) for 7-8 hours (from 3000-4000 roubles) and can be organized around picturesque
+        suburbs (in the fields or along the sea coast) or with visits to some natural attractions like canyons and waterfalls.
+        There are also several day riding tours.
+    </string>
+
+    <string name="entertainments_rafting">Rafting</string>
+    <string name="entertainments_rafting_description">
+        Sochi offers great opportunities for those who like extreme tourism: the local mountain rivers suit both for the novices
+        and for experienced rafters. As a rule, most raft-tours take place in the area of Krasnaya Polyana on the Mzymta River,
+        but other options are available too.
+        \nThe price for rafting per person is not very high: from 500 to 1000 roubles per 1-3 hours.
+        However, you should honestly assess your capacity in order not to get into trouble.
+    </string>
+
+    <string name="entertainments_skypark">Skypark AJ Hackett Sochi</string>
+    <string name="entertainments_skypark_description">
+        The only in Russia park for extreme entertainment on a high altitude was founded in Sochi in 2014 and became one of the main
+        sights of the city. It was created by a New Zealand traveler and extreme sportsman Alan Hacket,
+        who created similar parks in Australia, Germany, France, Singapour and China.
+        Thousands of tourists come to the park to walk on a walking bridge 439 meters long, which was built over the Akhshtyskoye canyon.
+        From the altitude of 207 meters a great view opens to the valley of Mzyma river and the Caucasus mountains.
+        The most desperate people decide to have the highest budju jump from the bridge – from an altitude of 69 or 207 meters.
+        Those, who are not ready for such jumps, can swing on the highest swings in the world and ride a megatroll
+        with the speed of 150 km/h. In the Sky park there is a rope park, a climbing wall, via ferrata on the cliff area of the canyon,
+        a budju-jump museum and an Amphitheatre.
+    </string>
+
+    <string name="entertainments_galaktika">Galaktika social and cultural centre</string>
+    <string name="entertainments_galaktika_description">
+        The social and cultural centre Galaktika is part of the mountain and tourist centre Gazprom, which is located at the altitude
+        of 540 meters above the sea level. Up to four thousand guests may stay there simultaneously.
+        The cosmic world of Galaktika creates an unusual design of the centre, which takes you at times to open space and at times
+        to some sections of a space ship. All year round there is an aquapark with a unique open heated pool and with a view
+        to the mountain peaks. The fans of winter entertainment may go figure skating on an all-year-round ice arena.
+        The spirit of competition reigns in the bowling centre and the billiard club. There are also three cinema centres in Galaktika,
+        a children’s development club and a night club, a food court and some restaurants. There are parking places for 1200 cars.
+    </string>
+
+    <string name="entertainments_mayak">Cabaret Mayak</string>
+    <string name="entertainments_mayak_description">
+        Perhaps Russia\'s most famous gay club, thanks to the massive media attention received during the 2014 Sochi Olympics,
+        Cabaret Mayak is now in a new location near the train station. Inside, drag queens and other performers continue to strut their stuff.
+        Face control keeps out the uncool, so make sure you look your best.
+    </string>
+
+</resources>
