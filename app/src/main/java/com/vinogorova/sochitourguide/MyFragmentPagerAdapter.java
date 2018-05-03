@@ -54,17 +54,24 @@ public class MyFragmentPagerAdapter extends FragmentPagerAdapter {
     //
     @Override
     public CharSequence getPageTitle(int position) {
-        if (position == 0) {
-            return mContext.getString(R.string.parks);
-        } else if (position == 1) {
-            return mContext.getString(R.string.museums);
-        } else if (position == 2) {
-            return mContext.getString(R.string.restaurants);
-        } else if (position == 3){
-            return mContext.getString(R.string.nature);
-        } else{
-            return mContext.getString(R.string.entertainments);
-        }
-        }
+        CharSequence seq = null;
 
+        switch (position) {
+            case 0:
+                seq =  mContext.getString(R.string.parks);
+            break;
+            case 1:
+                seq = mContext.getString(R.string.museums);
+            break;
+            case 2:
+                seq = mContext.getString(R.string.restaurants);
+            break;
+            case 3:
+                seq = mContext.getString(R.string.nature);
+            break;
+            case 4: seq = mContext.getString(R.string.entertainments);
+            break;
+        }
+        return  seq;
+    }
 }
